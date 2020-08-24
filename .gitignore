@@ -17,3 +17,5 @@
 letsencrypt
 simplecert
 .vscode
+vendor/
+vendor
